@@ -1,2 +1,2 @@
 # youtube clone
- this is video content site
+ this is video content website
